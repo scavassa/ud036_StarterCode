@@ -7,7 +7,7 @@ import json
 # Configure this if you are behind a proxy
 proxies = dict(http='')
 # Inset your https://themoviedb.org ID
-api_key = ''
+api_key = 'c1c52004c9fe03b30b1b1d240c45d57c'
 youtube = 'https://www.youtube.com/watch?v='
 
 
